@@ -1,0 +1,24 @@
+Loops
+
+#include<iostream
+using namespace std;
+int main()
+{
+cout<<1;
+cout<<2<<#<<$;
+}
+
+looping is something in which a similar action is repeated.
+action 1.....action 2......action 3.......
+action should be decided in every loop 
+how many times is the loop going to run 
+ FOR loops and WHILE loops 
+
+got ans wers of the following questions 
+
+what are loops 
+what is importance of loops
+how can we implement loops in c++
+what are the different ways in which implement loops in c++
+for and while loops 
+break statemnts 
